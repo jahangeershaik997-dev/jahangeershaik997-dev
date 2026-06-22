@@ -23,7 +23,7 @@
 
 I'm a **Senior D365 CRM Developer** with **7+ years** building enterprise-grade CRM solutions on Microsoft Dynamics 365, Azure, and the Power Platform.
 
-> ⚠️ **Note on GitHub activity:** Enterprise CRM development lives inside **client Microsoft tenants** — Dataverse environments, Azure DevOps pipelines, managed solutions — none of which can be pushed to public GitHub repos due to NDAs and client data security. My public repos here are personal projects and portfolio work only. My real output is measured in **production deployments**, not commit counts.
+> 💼 **Most of my work lives in client Microsoft tenants** — Dataverse environments, Azure DevOps pipelines and managed solutions. Personal projects and open explorations live here. For architecture deep-dives and case studies, visit my portfolio.
 
 ---
 
