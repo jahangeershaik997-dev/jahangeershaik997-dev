@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://jahangeer-portfolio.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/jahangeer-shaik-3537422b4">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:jahangeershaik997@gmail.com">📧 Email</a>
+  <a href="mailto:jahangeershaik997@gmail.com">📧 Email</a> &nbsp;·&nbsp;
+  <a href="https://wa.me/919000314625">💬 WhatsApp</a>
 </p>
 
 ---
